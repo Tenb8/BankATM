@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee09e7e4-d747-4e77-8636-69d8e08eda76" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/untitled$Main.coverage" NAME="Main Coverage Results" MODIFIED="1555303348223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ModBA$Main.coverage" NAME="Main Coverage Results" MODIFIED="1555943972571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WQ36KlM5IsBb2G71SqeoLaDxHh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555926565862" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\st550-11\IdeaProjects\untitled\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="Default" summary="Default task">
+      <changelist id="ee09e7e4-d747-4e77-8636-69d8e08eda76" name="Default" comment="" />
+      <created>1555300938305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555867288139</updated>
+    </task>
+    <task active="true" id="LOCAL-00001" summary="commands">
+      <created>1555867284115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555867288243</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="577" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1579450648530">
+      <screen x="0" y="23" width="1366" height="667" />
+    </state>
+    <state x="577" y="106" key="#com.intellij.ide.util.MemberChooser/0.23.1366.667@0.23.1366.667" timestamp="1579450648530" />
+    <state x="519" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579067836684">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state x="519" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1366.706@0.23.1366.706" timestamp="1579067836684" />
+    <state width="636" height="160" key="GridCell.Tab.0.bottom" timestamp="1579462963034">
+      <screen x="0" y="23" width="1366" height="667" />
+    </state>
+    <state width="1324" height="201" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1579383508741" />
+    <state width="636" height="160" key="GridCell.Tab.0.bottom/0.23.1366.667@0.23.1366.667" timestamp="1579462963034" />
+    <state width="1324" height="174" key="GridCell.Tab.0.bottom/0.23.1366.706@0.23.1366.706" timestamp="1579113232900" />
+    <state width="636" height="160" key="GridCell.Tab.0.center" timestamp="1579462963032">
+      <screen x="0" y="23" width="1366" height="667" />
+    </state>
+    <state width="1324" height="201" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1579383508739" />
+    <state width="636" height="160" key="GridCell.Tab.0.center/0.23.1366.667@0.23.1366.667" timestamp="1579462963032" />
+    <state width="1324" height="174" key="GridCell.Tab.0.center/0.23.1366.706@0.23.1366.706" timestamp="1579113232898" />
+    <state width="636" height="160" key="GridCell.Tab.0.left" timestamp="1579462963031">
+      <screen x="0" y="23" width="1366" height="667" />
+    </state>
+    <state width="1324" height="201" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1579383508739" />
+    <state width="636" height="160" key="GridCell.Tab.0.left/0.23.1366.667@0.23.1366.667" timestamp="1579462963031" />
+    <state width="1324" height="174" key="GridCell.Tab.0.left/0.23.1366.706@0.23.1366.706" timestamp="1579113232897" />
+    <state width="636" height="160" key="GridCell.Tab.0.right" timestamp="1579462963033">
+      <screen x="0" y="23" width="1366" height="667" />
+    </state>
+    <state width="1324" height="201" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1579383508740" />
+    <state width="636" height="160" key="GridCell.Tab.0.right/0.23.1366.667@0.23.1366.667" timestamp="1579462963033" />
+    <state width="1324" height="174" key="GridCell.Tab.0.right/0.23.1366.706@0.23.1366.706" timestamp="1579113232899" />
+    <state x="354" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1579444985507">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="354" y="216" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1579444985507" />
+    <state x="348" y="51" width="670" height="639" key="search.everywhere.popup" timestamp="1579449414899">
+      <screen x="0" y="23" width="1366" height="667" />
+    </state>
+    <state x="348" y="51" width="670" height="639" key="search.everywhere.popup/0.23.1366.667@0.23.1366.667" timestamp="1579449414899" />
+    <state x="348" y="53" width="670" height="676" key="search.everywhere.popup/0.23.1366.706@0.23.1366.706" timestamp="1579070318076" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
